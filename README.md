@@ -6,9 +6,18 @@ Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](htt
 
 **Please don't contact me for the dataset.**
 
-This repository is only for self-learning purpose. I am really happy if my solution is helpful to you. However, I won't provide the original book or the data files. If you want to do the exercise, you can go to [https://datamasked.com/](https://datamasked.com/) to purchase the book. Please respect the author of the original work.
+This repository is forked from @ Jifu Zhao 2018 and only for self-learning purpose. I am really happy if my solution is helpful to you. However, I won't provide the original book or the data files. If you want to do the exercise, you can go to [https://datamasked.com/](https://datamasked.com/) to purchase the book. Please respect the author of the original work.
 
-1. [Conversion Rate](https://github.com/JifuZhao/DS-Take-Home/blob/master/01.%20Conversion%20Rate.ipynb)
+
+## Additional Note
+
+Self-Check Progress: 1/20 (Jun 5)
+
+My workbooks are on Google Colab:
+
+1. [Conversion Rate](https://colab.research.google.com/drive/1bi2zSPzHcU9uc5e646zRwUDA9V9gSGzl?usp=sharing)
+
+
 2. [Spanish Translation A/B Test](https://github.com/JifuZhao/DS-Take-Home/blob/master/02.%20Spanish%20Translation%20AB%20Test.ipynb)
 3. [Employee Retention](https://github.com/JifuZhao/DS-Take-Home/blob/master/03.%20Employee%20Retention.ipynb)
 4. [Identifying Fraudulent Activities](https://github.com/JifuZhao/DS-Take-Home/blob/master/04.%20Identifying%20Fraudulent%20Activities.ipynb)
@@ -30,5 +39,3 @@ This repository is only for self-learning purpose. I am really happy if my solut
 20. [Ads Analysis](https://github.com/JifuZhao/DS-Take-Home/blob/master/20.%20Ads%20Analysis.ipynb)
 
 Other useful resource: [https://github.com/stasi009/TakeHomeDataChallenges](https://github.com/stasi009/TakeHomeDataChallenges)
-
-Copyright @ Jifu Zhao 2018
